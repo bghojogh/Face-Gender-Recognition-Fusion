@@ -1,0 +1,13 @@
+Preparing data for LDA...
+Training LDA...
+Testing LDA...
+Recognition rate:
+    0.8600
+
+Recognition rate of males:
+    0.8000
+
+Recognition rate of females:
+    0.9200
+
+>> 

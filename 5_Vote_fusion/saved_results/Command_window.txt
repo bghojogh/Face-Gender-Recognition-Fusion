@@ -1,0 +1,10 @@
+Recognition rate:
+    0.9400
+
+Recognition rate of males:
+    0.9600
+
+Recognition rate of females:
+    0.9200
+
+>> 

@@ -1,0 +1,13 @@
+Preparing data for SVM...
+Training SVM...
+Testing SVM...
+Recognition rate:
+    0.9000
+
+Recognition rate of males:
+     1
+
+Recognition rate of females:
+    0.8000
+
+>> 

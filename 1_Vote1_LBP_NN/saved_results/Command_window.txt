@@ -1,0 +1,75 @@
+Applying Local Binary Pattern...
+Applying PCA on train (training PCA)...
+Training Back Propagation Neural Network...
+Applying PCA on test...
+Testing Back Propagation Neural Network...
+Recognition rate:
+    0.7800
+
+Recognition rate of males:
+    0.8400
+
+Recognition rate of females:
+    0.7200
+
+>> recognized_labels_males
+
+recognized_labels_males =
+
+     1
+    -1
+    -1
+    -1
+     1
+    -1
+    -1
+    -1
+    -1
+    -1
+    -1
+    -1
+    -1
+    -1
+    -1
+    -1
+    -1
+    -1
+    -1
+    -1
+     1
+     1
+    -1
+    -1
+    -1
+
+>> recognized_labels_females
+
+recognized_labels_females =
+
+     1
+     1
+     1
+    -1
+    -1
+     1
+     1
+    -1
+    -1
+    -1
+     1
+     1
+    -1
+     1
+     1
+     1
+    -1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+     1
+
+>> 
